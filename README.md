@@ -1,4 +1,4 @@
-![Снимок экрана 2025-12-30 195603](https://github.com/user-attachments/assets/09b5deb5-9351-4e9f-9add-1ba433e67a8b)# MLOps Project: Pairwise Binary Classification
+# MLOps Project: Pairwise Binary Classification
 
 Проект для обучения модели бинарной классификации пар товаров на основе текстовых и визуальных эмбеддингов.
 
@@ -143,8 +143,9 @@ python main.py
 - `dvc` - управление версиями данных
 
 ## Скрины запуска
-- Скрин запуска тренировки
+- Скрин запуска тренировки на искусственном дата-сете, у меня на ноуте гпу нет(
 ![Снимок экрана 2025-12-30 195603](https://github.com/user-attachments/assets/93f01766-fe01-4297-bf89-a13377eb63b8)
 - скрин с структурой репозитория после запуска тренировки, где видно сохранение гидры, метрик, рисунков и модели
-![Снимок экрана 2025-12-30 195603](https://github.com/user-attachments/assets/54c64145-670a-440d-b3b9-f3044ff9f0f3)
+![Снимок экрана 2025-12-30 195735](https://github.com/user-attachments/assets/6dc34c23-fd25-46a0-b65a-2f274095957d)
+
 

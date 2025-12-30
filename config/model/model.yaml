@@ -1,0 +1,7 @@
+
+_target_: matching.model.PairwiseBinaryClassifier
+text_emb_size: 64
+img_emb_size: 128
+hidden_size: 512
+nlayers: 5
+

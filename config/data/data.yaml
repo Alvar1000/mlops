@@ -1,0 +1,6 @@
+data:
+  images_embeds_path: "data/images_embed.parquet"
+  texts_embeds_path: "data/text_and_bert.parquet"
+  train_path: "data/train.parquet"
+  test_size: 0.2
+  random_state: 42
